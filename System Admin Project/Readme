@@ -1,1 +1,5 @@
 Project video explanation and showcase : https://youtu.be/efAuPhWMTjg
+
+Project Overview
+The goal of this project was to set up a monitoring and visualization stack using Grafana for data visualization and Prometheus for time-series data collection.
+The setup also included configuring the server environment, firewall, and troubleshooting issues encountered during the installation and configuration process.
